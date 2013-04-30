@@ -1,0 +1,179 @@
+Eagles are an American rock band that was formed in Los Angeles, California in 1971. Currently consisting of vocalist/drummer Don Henley, vocalist/guitarist Glenn Frey, guitarist/vocalist Joe Walsh and bassist/vocalist Timothy B. Schmit, the band had five Number 1 singles and six Number 1 albums. the Eagles were one of the most successful recording artists of the 1970s. The Eagles' album, Their Greatest Hits 1971-1975 was named as the best-selling album of the 20th Century with 26 million sold, and...
+
+        Read more about Eagles on Last.fm.
+    
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]>
+
+Similar artists:
+
+ * Don Henley (http://www.last.fm/music/Don+Henley)
+ * Bernie Leadon (http://www.last.fm/music/Bob+Seger)
+ * Randy Meisner (http://www.last.fm/music/Tom+Petty)
+ * Glenn Frey (http://www.last.fm/music/Glenn+Frey)
+ * Joe Walsh (http://www.last.fm/music/The+Doobie+Brothers)
+ * Timothy B. Schmit (http://www.last.fm/tag/classic%20rock)
+ * Don Henley (http://www.last.fm/tag/rock)
+ * Bob Seger (http://www.last.fm/tag/70s)
+ * Tom Petty (http://www.last.fm/tag/soft%20rock)
+ * Glenn Frey (http://www.last.fm/tag/country)
+ * The Doobie Brothers (l version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<artist>
+  <name>Eagles</name>
+          <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+            <bandmembers>
+                    <member>
+                <name>Don Henley</name>
+                                    <yearfrom>1971</yearfrom>
+                                            </member>
+                    <member>
+                <name>Bernie Leadon</name>
+                                    <yearfrom>1971</yearfrom>
+                                                    <yearto>1975</yearto>
+                            </member>
+                    <member>
+                <name>Randy Meisner</name>
+                                    <yearfrom>1971</yearfrom>
+                                                    <yearto>1977</yearto>
+                            </member>
+                    <member>
+                <name>Glenn Frey</name>
+                                    <yearfrom>1971</yearfrom>
+                                            </member>
+                    <member>
+                <name>Joe Walsh</name>
+                                    <yearfrom>1976</yearfrom>
+                                            </member>
+                    <member>
+                <name>Timothy B. Schmit</name>
+                                    <yearfrom>1978</yearfrom>
+                                            </member>
+            </bandmembers>
+        <url>http://www.last.fm/music/Eagles</url>
+  <image size="small">http://userserve-ak.last.fm/serve/34/27893349.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/27893349.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/27893349.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/27893349.jpg</image>
+  <image size="mega">http://userserve-ak.last.fm/serve/500/27893349/Eagles+1974car01.jpg</image>
+  <streamable>1</streamable>
+  <ontour>0</ontour>
+  <stats>
+    <listeners>1599304</listeners>
+    <playcount>23164869</playcount>
+      </stats>
+
+  <similar>
+	    <artist>
+	  <name>Don Henley</name>
+	  <url>http://www.last.fm/music/Don+Henley</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/41307105.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/41307105.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/41307105.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/41307105.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/_/41307105/Don+Henley+The_eagles.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Bob Seger</name>
+	  <url>http://www.last.fm/music/Bob+Seger</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/17997163.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/17997163.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/17997163.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/17997163.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/_/17997163/Bob+Seger+BobSeger.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Tom Petty</name>
+	  <url>http://www.last.fm/music/Tom+Petty</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/30584613.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/30584613.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/30584613.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/30584613.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/_/30584613/Tom+Petty+TP.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Glenn Frey</name>
+	  <url>http://www.last.fm/music/Glenn+Frey</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/6760823.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/6760823.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/6760823.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/6760823.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/_/6760823/Glenn+Frey+glennfrey.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>The Doobie Brothers</name>
+	  <url>http://www.last.fm/music/The+Doobie+Brothers</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/25551661.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/25551661.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/25551661.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/25551661.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/_/25551661/The+Doobie+Brothers+bab0545.jpg</image>
+	  
+	        	</artist>
+  </similar>
+    <tags>
+        <tag>
+	  <name>classic rock</name>
+	  <url>http://www.last.fm/tag/classic%20rock</url>
+	</tag>
+        <tag>
+	  <name>rock</name>
+	  <url>http://www.last.fm/tag/rock</url>
+	</tag>
+        <tag>
+	  <name>70s</name>
+	  <url>http://www.last.fm/tag/70s</url>
+	</tag>
+        <tag>
+	  <name>soft rock</name>
+	  <url>http://www.last.fm/tag/soft%20rock</url>
+	</tag>
+        <tag>
+	  <name>country</name>
+	  <url>http://www.last.fm/tag/country</url>
+	</tag>
+      </tags>
+      <bio>
+        <links>
+        <link rel="original" href="http://www.last.fm/music/Eagles/+wiki" />
+    </links>
+                                    <published>Thu, 29 Nov 2012 03:31:09 +0000</published>
+    <summary>
+        <![CDATA[        <a href="http://www.eaglesband.com/" rel="nofollow">Eagles</a> are an American <a href="http://www.last.fm/tag/rock" class="bbcode_tag" rel="tag">rock</a> band that was formed in Los Angeles, California in 1971. Currently consisting of vocalist/drummer <a href="http://www.last.fm/music/Don+Henley" class="bbcode_artist">Don Henley</a>, vocalist/guitarist <a href="http://www.last.fm/music/Glenn+Frey" class="bbcode_artist">Glenn Frey</a>, guitarist/vocalist <a href="http://www.last.fm/music/Joe+Walsh" class="bbcode_artist">Joe Walsh</a> and bassist/vocalist <a href="http://www.last.fm/music/Timothy+B.+Schmit" class="bbcode_artist">Timothy B. Schmit</a>, the band had five Number 1 singles and six Number 1 albums. the Eagles were one of the most successful recording artists of the 1970s. The Eagles' album, <a title="Eagles - Their Greatest Hits 1971-1975" href="http://www.last.fm/music/Eagles/Their+Greatest+Hits+1971-1975" class="bbcode_album">Their Greatest Hits 1971-1975</a> was named as the best-selling album of the 20th Century with 26 million sold, and...
+
+        <a href="http://www.last.fm/music/Eagles">Read more about Eagles on Last.fm</a>.
+    ]]>
+    </summary>
+    <content>
+            <![CDATA[        <a href="http://www.eaglesband.com/" rel="nofollow">Eagles</a> are an American <a href="http://www.last.fm/tag/rock" class="bbcode_tag" rel="tag">rock</a> band that was formed in Los Angeles, California in 1971. Currently consisting of vocalist/drummer <a href="http://www.last.fm/music/Don+Henley" class="bbcode_artist">Don Henley</a>, vocalist/guitarist <a href="http://www.last.fm/music/Glenn+Frey" class="bbcode_artist">Glenn Frey</a>, guitarist/vocalist <a href="http://www.last.fm/music/Joe+Walsh" class="bbcode_artist">Joe Walsh</a> and bassist/vocalist <a href="http://www.last.fm/music/Timothy+B.+Schmit" class="bbcode_artist">Timothy B. Schmit</a>, the band had five Number 1 singles and six Number 1 albums. the Eagles were one of the most successful recording artists of the 1970s. The Eagles' album, <a title="Eagles - Their Greatest Hits 1971-1975" href="http://www.last.fm/music/Eagles/Their+Greatest+Hits+1971-1975" class="bbcode_album">Their Greatest Hits 1971-1975</a> was named as the best-selling album of the 20th Century with 26 million sold, and...
+
+        <a href="http://www.last.fm/music/Eagles">Read more about Eagles on Last.fm</a>.
+    
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]>
+    </content>
+            <placeformed>Los Angeles, California</placeformed>                        <yearformed>1971</yearformed>
+            <formationlist>
+                    <formation>
+                <yearfrom>1971</yearfrom>
+                <yearto>1980</yearto>
+            </formation>
+                    <formation>
+                <yearfrom>1994</yearfrom>
+                <yearto></yearto>
+            </formation>
+            </formationlist>
+      </bio>
+  </artist></lfm>
+)
+ * classic rock (http://www.last.fm/music/Eagles)
+ * rock (http://www.last.fm/music/Don+Henley)
+ * 70s (http://www.last.fm/music/Bob+Seger)
+ * soft rock (http://www.last.fm/music/Tom+Petty)
+ * country (http://www.last.fm/music/Glenn+Frey)
+
+http://www.last.fm/music/Eagles

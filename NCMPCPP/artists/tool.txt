@@ -1,0 +1,169 @@
+Danny Carey, guitarist Adam Jones, vocalist Maynard James Keenan, and original bassist Paul d'Amour, Tool is a band that is most noted for combining alternative metal with a wide variety of progressive structures, irregular time signatures and lyrics that range from angry diatribes to meditations on philosophical and social matters.  
+
+        Read more about Tool on Last.fm.
+    
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]>
+
+Similar artists:
+
+ * Danny Carey (http://www.last.fm/music/A+Perfect+Circle)
+ * Adam Jones (http://www.last.fm/music/Puscifer)
+ * Maynard James Keenan (http://www.last.fm/music/Rishloo)
+ * Paul D'Amour (http://www.last.fm/music/Peach)
+ * Justin Chancellor (http://www.last.fm/music/Porcupine+Tree)
+ * A Perfect Circle (http://www.last.fm/tag/progressive%20metal)
+ * Puscifer (http://www.last.fm/tag/progressive%20rock)
+ * Rishloo (http://www.last.fm/tag/metal)
+ * Peach (http://www.last.fm/tag/alternative)
+ * Porcupine Tree (http://www.last.fm/tag/rock)
+ * progressive metal (l version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<artist>
+  <name>Tool</name>
+          <mbid>22c94bce-544f-49ba-afdc-026beac4fd3e</mbid>
+            <bandmembers>
+                    <member>
+                <name>Danny Carey</name>
+                                    <yearfrom>1990</yearfrom>
+                                            </member>
+                    <member>
+                <name>Adam Jones</name>
+                                    <yearfrom>1990</yearfrom>
+                                            </member>
+                    <member>
+                <name>Maynard James Keenan</name>
+                                    <yearfrom>1990</yearfrom>
+                                            </member>
+                    <member>
+                <name>Paul D'Amour</name>
+                                    <yearfrom>1990</yearfrom>
+                                                    <yearto>1995</yearto>
+                            </member>
+                    <member>
+                <name>Justin Chancellor</name>
+                                    <yearfrom>1995</yearfrom>
+                                            </member>
+            </bandmembers>
+        <url>http://www.last.fm/music/Tool</url>
+  <image size="small">http://userserve-ak.last.fm/serve/34/2893333.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/2893333.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/2893333.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/2893333.jpg</image>
+  <image size="mega">http://userserve-ak.last.fm/serve/500/2893333/Tool.jpg</image>
+  <streamable>1</streamable>
+  <ontour>1</ontour>
+  <stats>
+    <listeners>1477731</listeners>
+    <playcount>96337584</playcount>
+      </stats>
+
+  <similar>
+	    <artist>
+	  <name>A Perfect Circle</name>
+	  <url>http://www.last.fm/music/A+Perfect+Circle</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/2248031.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/2248031.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/2248031.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/2248031.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/2248031/A+Perfect+Circle.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Puscifer</name>
+	  <url>http://www.last.fm/music/Puscifer</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/16211331.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/16211331.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/16211331.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/16211331.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/_/16211331/Puscifer+85183.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Rishloo</name>
+	  <url>http://www.last.fm/music/Rishloo</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/50023513.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/50023513.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/50023513.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/50023513.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/50023513/Rishloo+x_868ee290.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Peach</name>
+	  <url>http://www.last.fm/music/Peach</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/287901.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/287901.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/287901.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/287901.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/287901/Peach.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Porcupine Tree</name>
+	  <url>http://www.last.fm/music/Porcupine+Tree</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/13065279.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/13065279.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/13065279.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/13065279.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/_/13065279/Porcupine+Tree+366.jpg</image>
+	  
+	        	</artist>
+  </similar>
+    <tags>
+        <tag>
+	  <name>progressive metal</name>
+	  <url>http://www.last.fm/tag/progressive%20metal</url>
+	</tag>
+        <tag>
+	  <name>progressive rock</name>
+	  <url>http://www.last.fm/tag/progressive%20rock</url>
+	</tag>
+        <tag>
+	  <name>metal</name>
+	  <url>http://www.last.fm/tag/metal</url>
+	</tag>
+        <tag>
+	  <name>alternative</name>
+	  <url>http://www.last.fm/tag/alternative</url>
+	</tag>
+        <tag>
+	  <name>rock</name>
+	  <url>http://www.last.fm/tag/rock</url>
+	</tag>
+      </tags>
+      <bio>
+        <links>
+        <link rel="original" href="http://www.last.fm/music/Tool/+wiki" />
+    </links>
+                                    <published>Sat, 31 Dec 2011 19:10:59 +0000</published>
+    <summary>
+        <![CDATA[        Formed around 1990 in Los Angeles, California, United States, by drummer <a href="http://www.last.fm/music/Danny+Carey" class="bbcode_artist">Danny Carey</a>, guitarist <a href="http://www.last.fm/music/Adam+Jones" class="bbcode_artist">Adam Jones</a>, vocalist <a href="http://www.last.fm/music/Maynard+James+Keenan" class="bbcode_artist">Maynard James Keenan</a>, and original bassist <a href="http://www.last.fm/music/Paul+d%27Amour" class="bbcode_artist">Paul d'Amour</a>, Tool is a band that is most noted for combining alternative metal with a wide variety of progressive structures, irregular time signatures and lyrics that range from angry diatribes to meditations on philosophical and social matters.  
+
+        <a href="http://www.last.fm/music/Tool">Read more about Tool on Last.fm</a>.
+    ]]>
+    </summary>
+    <content>
+            <![CDATA[        Formed around 1990 in Los Angeles, California, United States, by drummer <a href="http://www.last.fm/music/Danny+Carey" class="bbcode_artist">Danny Carey</a>, guitarist <a href="http://www.last.fm/music/Adam+Jones" class="bbcode_artist">Adam Jones</a>, vocalist <a href="http://www.last.fm/music/Maynard+James+Keenan" class="bbcode_artist">Maynard James Keenan</a>, and original bassist <a href="http://www.last.fm/music/Paul+d%27Amour" class="bbcode_artist">Paul d'Amour</a>, Tool is a band that is most noted for combining alternative metal with a wide variety of progressive structures, irregular time signatures and lyrics that range from angry diatribes to meditations on philosophical and social matters.  
+
+        <a href="http://www.last.fm/music/Tool">Read more about Tool on Last.fm</a>.
+    
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]>
+    </content>
+            <placeformed>Los Angeles, California, United States</placeformed>                        <yearformed>1990</yearformed>
+            <formationlist>
+                    <formation>
+                <yearfrom>1990</yearfrom>
+                <yearto></yearto>
+            </formation>
+            </formationlist>
+      </bio>
+  </artist></lfm>
+)
+ * progressive rock (http://www.last.fm/music/Tool)
+ * metal (http://www.last.fm/music/A+Perfect+Circle)
+ * alternative (http://www.last.fm/music/Puscifer)
+ * rock (http://www.last.fm/music/Rishloo)
+
+http://www.last.fm/music/Tool
